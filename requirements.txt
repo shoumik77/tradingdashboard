@@ -5,3 +5,4 @@ numpy
 importnb
 financedatabase
 datetime
+plotly
